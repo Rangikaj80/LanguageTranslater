@@ -5,8 +5,8 @@ from gtts import gTTS
 import os
 
 # Set up the Streamlit app
-st.set_page_config(page_title="Language Translater by Jagar", layout="wide")
-st.title("Language Translater")
+st.set_page_config(page_title="Language Translator by Jagar", layout="wide")
+st.title("Language Translator")
 
 # Input language selection
 st.subheader("Select Input Language")
