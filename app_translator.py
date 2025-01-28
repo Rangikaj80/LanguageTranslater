@@ -16,6 +16,8 @@ input_language = st.selectbox("Input Language", ["Auto Detect"] + input_language
 # Input method selection
 input_method = st.radio("Input Method", ("Text", "Voice"))
 
+input_text = ""
+
 if input_method == "Text":
     # Input text
     st.subheader("Enter Text")
