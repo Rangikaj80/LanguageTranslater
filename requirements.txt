@@ -3,4 +3,4 @@ googletrans==4.0.0-rc1
 speechrecognition==3.8.1
 gtts==2.2.3
 altair==4.2.0
-pyaudio
+
